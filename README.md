@@ -56,8 +56,9 @@ python ./code/pancreas/test_Pancreas.py  #for Pancreas testing
 python ./code/test_LA.py  #for LA testing
 python ./code/test_ACDC.py  #for ACDC testing
 ```
-### Citation
+## Citation
 If our SDCL is useful for your research, please consider citing:
+
         @inproceedings{song2024sdcl,
          title={SDCL: Students Discrepancy-Informed Correction Learning for Semi-supervised Medical Image Segmentation},
          author={Song, Bentao and Wang, Qingfeng},
