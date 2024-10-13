@@ -56,7 +56,16 @@ python ./code/pancreas/test_Pancreas.py  #for Pancreas testing
 python ./code/test_LA.py  #for LA testing
 python ./code/test_ACDC.py  #for ACDC testing
 ```
-
+### Citation
+If our SDCL is useful for your research, please consider citing:
+        @inproceedings{song2024sdcl,
+         title={SDCL: Students Discrepancy-Informed Correction Learning for Semi-supervised Medical Image Segmentation},
+         author={Song, Bentao and Wang, Qingfeng},
+         booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+         pages={567--577},
+         year={2024},
+         organization={Springer}
+         }
 ## Acknowledgements
 Our code is largely based on [BCP](https://github.com/DeepMed-Lab-ECNU/BCP). Thanks for these authors for their valuable work, hope our work can also contribute to related research.
 
