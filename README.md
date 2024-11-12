@@ -26,10 +26,11 @@ the current State-of-the-Art (SOTA) methods by 2.57%, 3.04%, and 2.34% in the Di
 
 ## Introduction
 Official code for "SDCL: Students Discrepancy-Informed Correction Learning for Semi-supervised Medical Image Segmentation".
-Due to the large size of the model parameter files, it is difficult to upload them anonymously. After our paper is accepted, we will publish both the pretrained model and the fully trained model.
 
 The proof for the kl_loss in the code can be found in the document "MICCAI2024_SDCL.pdf".
-
+## News
+2024/11/12 
+We provide SDCL model parameters [google drive](https://drive.google.com/file/d/18C5C8VEUnFFZwg-zG6pu1WPC0Bi3GLCe/view?usp=drive_link).
 ## Requirements
 This repository is based on PyTorch 2.1.0, CUDA 12.1, and Python 3.8. All experiments in our paper were conducted on an NVIDIA GeForce RTX 4090 GPU with an identical experimental setting under Windows.
 ## Datasets
