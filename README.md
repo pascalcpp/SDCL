@@ -1,8 +1,6 @@
- # SDCL: Students Discrepancy-Informed Correction Learning for Semi-supervised Medical Image Segmentation
+ # SDCL: Students Discrepancy-Informed Correction Learning for Semi-supervised Medical Image Segmentation (MICCAI 2024)
 
  #### By [Bentao Song](), [Qingfeng Wang]()
- 
-![MICCAI2024](https://img.shields.io/badge/MICCAI-2024-blue)
 
 Pytorch implementation of our method for MICCAI 2024 paper: "SDCL: Students Discrepancy-Informed Correction Learning for Semi-supervised Medical Image Segmentation".[Paper Link](https://papers.miccai.org/miccai-2024/672-Paper0821.html)
 ## Contents
